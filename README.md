@@ -11,7 +11,7 @@
 
 ## 1.设计结构
 系统层次结构图如下：
-
+![da1d7a7578e2d229dfac8e4bf223697](https://github.com/Tryingyuan/cpt202project/assets/129402785/11ac380d-9490-4307-b243-a01090fc8b11)
 
 系统模块主要包含
 - 用户注册模块
