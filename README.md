@@ -61,7 +61,7 @@ User social interaction, fitness plan tracking, online customer service and othe
 
 # III. Main Page
 ### Home page
-<img width="1440" alt="17b71af25cddda49dd592a82bd3fc19" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/d6ef9c0f-5e86-4987-8e4e-600efad2fcb4">
+![Uploading 截屏2024-05-13 13.12.33.png…]()
 
 ### User registration page
 <img width="1440" alt="54658921b6587325ab54ae5053a4ba0" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/884b0ed3-f26a-421f-8301-9a3fe83bb1fd">
