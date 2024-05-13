@@ -34,8 +34,6 @@ The system module mainly includes：
 - Member fitness plan purchase module
 - Course reservation module
 - User feedback module
-- Device management module ?
-- Document report management module ?
 - Personal information management module
 - Order information management module
 - Advertising and marketing module
@@ -61,23 +59,27 @@ User social interaction, fitness plan tracking, online customer service and othe
 4. and database interaction framework: JPA, Mybatis
 
 
-# III. Functionality Page
+# III. Main Page
+### Home page
+<img width="1440" alt="17b71af25cddda49dd592a82bd3fc19" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/d6ef9c0f-5e86-4987-8e4e-600efad2fcb4">
+
 ### User registration page
+<img width="1440" alt="54658921b6587325ab54ae5053a4ba0" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/884b0ed3-f26a-421f-8301-9a3fe83bb1fd">
 
 ### Login page
+<img width="1039" alt="截屏2024-05-13 13 12 39" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/f455e56c-37bb-4fae-99e3-259c79b0f717">
+<img width="1440" alt="截屏2024-05-13 13 13 01" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/01963f1c-8f4d-4eb8-9d0c-80963eeec79e">
+<img width="1440" alt="截屏2024-05-13 13 12 46" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/0fa7409c-8079-483b-9282-c3634c702423">
 
 ### Member fitness plan purchase page
-
-### Course reservation page
+<img width="1440" alt="截屏2024-05-13 13 13 24" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/4dd91546-4da8-4809-aea2-503973e6fe17">
 
 ### User feedback page
-
-### Device management page
-
-### Document report management page
 
 ### Personal information management page
 
 ### Order information management page
 
-### Advertising and marketing module
+### Manager management page
+<img width="1440" alt="截屏2024-05-13 13 14 13" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/f74ad5cd-1fec-4672-a224-718fc53d91df">
+
