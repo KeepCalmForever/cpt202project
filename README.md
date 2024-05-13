@@ -1,4 +1,4 @@
-# cpt202project
+<img width="1440" alt="截屏2024-05-13 13 12 46" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/2e8b1335-935f-4458-a76c-cda1b5115254"><img width="1440" alt="截屏2024-05-13 13 12 33" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/34f499dd-1f0e-4bdf-9676-307e9b571152"># cpt202project
 # I. Introduction to the project
 
 ### Title: Fitness Appointment Management Platform
@@ -61,13 +61,13 @@ User social interaction, fitness plan tracking, online customer service and othe
 
 # III. Main Page
 ### Home page
-![Uploading 截屏2024-05-13 13.12.33.png…]()
+<img width="1440" alt="截屏2024-05-13 13 12 46" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/b1dfc8cf-8567-4c81-8a66-2ed82be3bb28">
 
 ### User registration page
 <img width="1440" alt="54658921b6587325ab54ae5053a4ba0" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/884b0ed3-f26a-421f-8301-9a3fe83bb1fd">
 
 ### Login page
-<img width="1039" alt="截屏2024-05-13 13 12 39" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/f455e56c-37bb-4fae-99e3-259c79b0f717">
+<img width="1440" alt="截屏2024-05-13 13 12 39" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/f455e56c-37bb-4fae-99e3-259c79b0f717">
 <img width="1440" alt="截屏2024-05-13 13 13 01" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/01963f1c-8f4d-4eb8-9d0c-80963eeec79e">
 <img width="1440" alt="截屏2024-05-13 13 12 46" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/0fa7409c-8079-483b-9282-c3634c702423">
 
