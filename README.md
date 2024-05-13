@@ -1,9 +1,9 @@
 # cpt202project
 # I. Introduction to the project
 
-## Title: Fitness Appointment Management Platform
+### Title: Fitness Appointment Management Platform
 
-## Description:
+### Description:
 In today's fast-paced society, prioritizing personal fitness and health management has become increasingly crucial. However, despite the abundance of fitness resources available, many individuals struggle with effectively planning and tracking their fitness programs while accessing professional guidance. Our project aims to address these challenges by developing a comprehensive online platform that streamlines fitness appointment management for both customers and managers.
 
 ### Key Challenges:
