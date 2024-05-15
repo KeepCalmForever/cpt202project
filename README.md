@@ -75,10 +75,8 @@ User social interaction, fitness plan tracking, online customer service and othe
 <img width="1440" alt="截屏2024-05-13 13 13 24" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/4dd91546-4da8-4809-aea2-503973e6fe17">
 
 ### User feedback page
+![image](https://github.com/Tryingyuan/cpt202project/assets/129402785/3938f21a-c275-48b3-857c-c418b737b7a0)
 
-### Personal information management page
-
-### Order information management page
 
 ### Manager management page
 <img width="1440" alt="截屏2024-05-13 13 14 13" src="https://github.com/Tryingyuan/cpt202project/assets/129402785/f74ad5cd-1fec-4672-a224-718fc53d91df">
